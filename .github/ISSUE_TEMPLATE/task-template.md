@@ -1,13 +1,10 @@
 ---
 name: Task template
-about: Describe here.
+about: Task Description.
 title: "[TASK]"
 labels: task
 assignees: ''
 
 ---
-
-# TaskName
 ## TODOs:
--
--
+
